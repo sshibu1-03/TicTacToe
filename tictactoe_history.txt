@@ -1,0 +1,6 @@
+2025-10-05 19:35 | Human vs. Human | Winner: X
+2025-10-05 19:35 | Human vs. Human | Winner: Draw
+2025-10-05 19:35 | Human vs. Random Computer | Winner: Human
+2025-10-05 19:35 | Human vs. Smart Computer | Winner: Draw
+2025-10-05 19:36 | Human vs. Smart Computer | Winner: Draw
+2025-10-05 19:36 | Human vs. Smart Computer | Winner: Computer
